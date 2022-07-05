@@ -9,7 +9,9 @@
 ## Questions
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
-
+| DAY1| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY1P1.md) |
+|  | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY1P2.md) |
+|  | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY1P3.md) |
 
 
 
