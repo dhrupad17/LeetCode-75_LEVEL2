@@ -14,7 +14,12 @@
 |  | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY1P3.md) |
 | DAY2 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY2P1.md) |
 |  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY2P2.md) |
-
+| DAY3 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY3P1.md) |
+|  | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY3P2.md) |
+| DAY4 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY4P1.md) |
+|  | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY4P2.md) | 
+| DAY5 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) |  `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY5P1.md) |
+|  | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY5P2.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
