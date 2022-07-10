@@ -20,6 +20,10 @@
 |  | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY4P2.md) | 
 | DAY5 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) |  `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY5P1.md) |
 |  | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY5P2.md) |
+| DAY6 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY6P1.md) |
+|  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY6P2.md) |
+
+
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
