@@ -22,7 +22,8 @@
 |  | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY5P2.md) |
 | DAY6 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY6P1.md) |
 |  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY6P2.md) |
-
+| DAY7 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY7P1.md) |
+|  | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY7P2.md) |
 
 
 ## 🛠 Skills
