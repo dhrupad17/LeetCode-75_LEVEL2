@@ -24,7 +24,8 @@
 |  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY6P2.md) |
 | DAY7 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY7P1.md) |
 |  | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY7P2.md) |
-
+| DAY8 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |  `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY8P1.md) |
+|  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY8P2.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
