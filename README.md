@@ -28,6 +28,8 @@
 |  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY8P2.md) |
 | DAY9 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY9P1.md) | 
 |  | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY9P2.md) |
+| DAY10 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY10P1.md) |
+|  | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY10P2.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
