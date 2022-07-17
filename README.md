@@ -34,6 +34,8 @@
 |  | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | `Hard` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY11P2.md) |
 | DAY12 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY12P1.md) | 
 |  | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY12P2.md) |
+| DAY13 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY13P1.md) |
+|  | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY13P2.md) |
 
 
 ## 🛠 Skills
