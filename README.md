@@ -30,6 +30,8 @@
 |  | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY9P2.md) |
 | DAY10 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY10P1.md) |
 |  | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY10P2.md) |
+| DAY11 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY11P1.md) |
+|  | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | `Hard` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY11P2.md) |
 | DAY12 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY12P1.md) | 
 |  | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY12P2.md) |
 
