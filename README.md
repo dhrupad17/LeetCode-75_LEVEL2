@@ -39,6 +39,9 @@
 | DAY14 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P1.md) |
 |  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P2.md) |
 |  | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | `Hard` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P3.md) |
+| DAY15 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P1.md) |
+|  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P2.md) |
+|  | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P3.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
