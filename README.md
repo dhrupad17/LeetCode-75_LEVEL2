@@ -36,7 +36,9 @@
 |  | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY12P2.md) |
 | DAY13 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY13P1.md) |
 |  | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY13P2.md) |
-
+| DAY14 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P1.md) |
+|  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P2.md) |
+|  | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | `Hard` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY14P3.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
