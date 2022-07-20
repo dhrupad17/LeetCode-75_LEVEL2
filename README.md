@@ -42,6 +42,9 @@
 | DAY15 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P1.md) |
 |  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P2.md) |
 |  | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY15P3.md) |
+| DAY16 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY16P1.md) |
+|  | 165 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY16P2.md) | 
+|  | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY16P3.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
