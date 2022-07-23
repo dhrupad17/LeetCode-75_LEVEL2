@@ -49,6 +49,8 @@
 |  | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY17P2.md) |
 | DAY18 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY18P1.md) |
 |  | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY18P2.md) |
+| DAY19 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY19P1.md) |
+|  | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/LeetCode-75_LEVEL2/blob/main/DAY19P2.md) |
 
 ## 🛠 Skills
   `Data Structures`,`Algorithms`,`Prefix Sum`,`String`,`Linked List`,`Greedy`,`Tree`,`Binary Search`,`Binary Search Tree`,`Graph/BFS/DFS`,`Dynamic Programming`,`Sliding Window/Two Pointer`,`Hashmap`,`Stack`,`Heap`,`java`
